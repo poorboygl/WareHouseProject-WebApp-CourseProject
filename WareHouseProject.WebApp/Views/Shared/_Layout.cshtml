@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="/favicon.jpg" rel="icon" type="image/x-icon" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/headers.css" rel="stylesheet" />
+    <link href="~/css/all.css" rel="stylesheet" />
+    <link href="~/css/UserDefine.css" rel="stylesheet" />
+    <script src="~/js/jquery-3.5.1.min.js"></script>
+    <script src="~/js/bootstrap.js"></script>
+    <link href="~/css/fontawesome.css" rel="stylesheet" />
+
+</head>
+<body>
+    <header class="p-3 bg-dark text-white">
+        <div class="container">
+            <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+                @*<a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
+                       <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap" /></svg>
+                    </a>*@
+
+                <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+                    <li><a href="/Home" class="nav-link px-2 text-white">Home</a></li>
+                    <li><a href="/Home/About" class="nav-link px-2 text-white">About</a></li>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+
+                        @if (User.FindFirst(System.Security.Claims.ClaimTypes.SerialNumber).Value == "admin")
+                        {
+                            <li><a href="/DimGeography" class="nav-link px-2 text-white">Geography </a></li>
+                            <li><a href="/DimCustomer" class="nav-link px-2 text-white">Customer </a></li>
+                            <li><a href="/DimDepartmentGroup" class="nav-link px-2 text-white">Department Group</a></li>
+                            <li><a href="/DimCompanyOrganization" class="nav-link px-2 text-white">Company Organization</a></li>
+                            <li><a href="/DimEmployee" class="nav-link px-2 text-white">Employee</a></li>
+
+                        }
+                        else
+                        {
+                            <li><a href="/cart/"><i class="fas fa-shopping-cart fa-2x text-white"></i></a></li>
+                        }
+                    }
+
+
+
+
+                </ul>
+                <form action="/home/search" class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3">
+                    <input name="q" type="search" class="form-control form-control-dark" placeholder="Search...">
+                </form>
+                @if (!User.Identity.IsAuthenticated)
+                {
+                    <a class="btn btn-warning" href="/auth/signin">Sign In</a>
+                    <a class="btn btn-warning" href="/auth/register">Sign Up</a>
+                }
+
+                @if (User.Identity.IsAuthenticated)
+                {
+            <div>
+                <a>CodeUser:<b>@User.FindFirst(System.Security.Claims.ClaimTypes.SerialNumber).Value</b></a>
+            </div>
+                    <br />
+                    @*<div>
+                            <a>Position:<b>@User.FindFirst(System.Security.Claims.ClaimTypes.Role).Value</b></a>
+                        </div>*@
+                    <a class="btn btn-warning" href="/auth/SignOut ">Sign out</a>
+                }
+            </div>
+
+        </div>
+    </header>
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+
+</body>
+</html>
+
+@*<ul>
+        <li><a href="/Language">Language</a></li>
+        <li><a href="/DimProductcategory">Product Categories</a></li>
+        <li><a href="/DimProductSubcategory"> Product SubCategories </a></li>
+        <li><a href="/DimProduct">Product</a></li>
+        <li><a href="/DimGeography">Geography</a></li>
+        <li><a href="/DimCustomer">Customer</a></li>
+        <li><a href="/DimDepartmentGroup">Department Group</a></li>
+        <li><a href="/DimCompanyOrganization">Company Organization</a></li>
+        <li><a href="/DimEmployee">Employee</a></li>
+    </ul>*@

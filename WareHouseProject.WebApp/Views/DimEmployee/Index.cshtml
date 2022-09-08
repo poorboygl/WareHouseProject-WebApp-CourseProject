@@ -1,0 +1,32 @@
+﻿@model List<DimEmployee>
+<div class="row">
+    <div class=" col-3">
+        <ul>
+            @foreach (DimDepartmentGroup item in ViewBag.DepartmentGroups)
+            {
+                <li> <a href="/DimEmployee/DepartmentGroup/@item.DepartmentGroupKey">@item.DepartmentGroupName</a></li>
+            }
+
+        </ul>
+    </div>
+    <div class="col-9">
+        <div class="row">
+            @foreach (DimEmployee item in Model)
+            {
+            <div class="col-3">
+                <div class="box">
+                    <a href="/DimEmployee/detail/@item.EmployeeNationalIDAlternateKey"><img class="img-fluid" src="data:image/jpeg;base64,@Convert.ToBase64String(item.EmployeePhoto)" alt="@item.EmployeeNationalIDAlternateKey" /></a>
+                    <a href="/DimEmployee/detail/@item.EmployeeNationalIDAlternateKey">
+                        <div class="text-center">
+                            <b>National ID: @item.EmployeeNationalIDAlternateKey</b>
+                        </div>
+                    </a>
+                                           
+                </div>
+                
+            </div>
+            }
+        </div>
+    </div>
+
+</div>

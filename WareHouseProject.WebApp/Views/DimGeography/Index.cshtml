@@ -1,0 +1,28 @@
+﻿@model List<DimGeography>
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Geography Key</th>
+            <th>City</th>
+            <th>State Province Code</th>
+            <th>State Province Name</th>
+            <th>Country Region Code</th>
+            <th>Country Region Name</th>
+            <th>Postal Code</th>
+            <th>Ipaddress Locator</th>
+        </tr>
+    </thead>
+    @foreach (DimGeography item in Model)
+    {
+        <tr>
+            <td>@item.GeographyKey</td>
+            <td>@item.City</td>
+            <td>@item.StateProvinceCode</td>
+            <td>@item.StateProvinceName</td>
+            <td>@item.CountryRegionCode</td>
+            <td>@item.CountryRegionName</td>
+            <td>@item.PostalCode</td>
+            <td>@item.IpAddressLocator</td>
+        </tr>
+    }
+</table>

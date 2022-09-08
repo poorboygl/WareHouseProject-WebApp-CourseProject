@@ -1,0 +1,56 @@
+﻿@model List<DimProduct>
+@addTagHelper *,WareHouseProject.WebApp
+
+<div class="row">
+    <div class=" col-2">
+        <ul>
+            <li> <a alt="0" href="/Home/category/0">All</a></li>
+            @foreach (DimProductCategory item in ViewBag.ProductCategories)
+            {
+                <li> <a href="/Home/category/@item.ProductCategoryKey">@item.ProductCategoryName</a></li>
+            }
+
+        </ul>
+    </div>
+    <div class="col-8">
+        <div>
+            <pagination size="12" url="/home/search/{0}?q=@Context.Request.Query["q"]" total="@ViewBag.total"></pagination>
+            @{
+                int p = Convert.ToInt32(ViewContext.RouteData.Values["p"]) - 1;
+                if (p == -1)
+                {
+                    p = 0;
+                }
+            }
+        </div>
+        <div class="row">
+            @foreach (DimProduct item in Model)
+            {
+                <div class="col-4">
+                    <div class="box">
+                        <a href="/Home/detail/@item.ProductAlternateKey"><img class="img-fluid" src="data:image/jpeg;base64,@Convert.ToBase64String(item.ImageFile)" alt="@item.ProductAlternateKey" /></a>
+                        <a href="/Home/detail/@item.ProductAlternateKey">
+                            <div class="text-center">
+                                <b> @item.ProductAlternateKey</b>
+                            </div>
+                        </a>
+                        <div class="text-center">
+                            <b>Product Name: @item.ProductName</b>
+                        </div>
+                        <div class="text-center">
+                            @if (item.Price != null)
+                            {
+                                <b>Price: @item.Price.Value.ToString("#,###.##")</b>
+                            }
+                        </div>
+                    </div>
+
+                </div>
+            }
+        </div>
+    </div>
+
+</div>
+<script>
+    $($('.pagination li.page-item')[@p]).addClass('active');
+</script>

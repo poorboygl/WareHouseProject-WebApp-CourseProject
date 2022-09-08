@@ -1,0 +1,19 @@
+﻿@model List<DimProductCategory>
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Product Category Key</th>
+            <th>Product Category Alternate Key</th>
+            <th>Product Category Name</th>
+
+        </tr>
+    </thead>
+    @foreach (DimProductCategory item in Model)
+    {
+        <tr>
+            <td>@item.ProductCategoryKey</td>
+            <td>@item.ProductCategoryAlternateKey</td>
+            <td>@item.ProductCategoryName</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,17 @@
+﻿@model List<DimDepartmentGroup>
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Department Group Key</th>
+            <th>Department Group Name</th>
+            
+        </tr>
+    </thead>
+    @foreach (DimDepartmentGroup item in Model)
+    {
+        <tr>
+            <td>@item.DepartmentGroupKey</td>
+            <td>@item.DepartmentGroupName</td>
+        </tr>
+    }
+</table>

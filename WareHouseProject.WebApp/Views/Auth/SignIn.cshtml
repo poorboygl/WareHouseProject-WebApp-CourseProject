@@ -1,0 +1,19 @@
+﻿@model SignInModel
+<form method="post">
+    <div>
+        <label asp-for="Usr">UserName</label>
+        <input type="text" asp-for="Usr" />
+    </div>
+    <div>
+        <label asp-for="Pwd">Password</label>
+        <input type="password" asp-for="Pwd" />
+    </div>
+    <div>
+        <label asp-for="Rem">Remenber me</label>
+        <input type="checkbox" asp-for="Rem" />
+    </div>
+    <div>
+        <button>Sign IN</button>
+    </div>
+    <a href="/auth/register">Create account</a>
+</form>

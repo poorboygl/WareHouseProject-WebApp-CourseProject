@@ -1,0 +1,69 @@
+﻿@model List<DimCustomer>
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Customer Alternate Key</th>
+            <th>Title</th>
+            <th>FirstName</th>
+            <th>MiddleName</th>
+            <th>LastName</th>
+            <th>Gender</th>
+            <th>BirthDate</th>
+            <th>Marital Status</th>
+            <th>Suffix</th>
+            <th>EmailAddress</th>
+            <th>Phone</th>
+            <th>AddressLine1</th>
+            <th>AddressLine2</th>
+            <th>City</th>
+            <th>State Province Name</th>
+            <th>Country Region Name</th>
+            <th>Education</th>
+            <th>Total Children</th>
+            <th>Number Children At Home</th>
+            <th>HouseOwner Number</th>
+            <th>Yearly Income (USD)</th>
+            <th>DateFirst Purchase</th>
+            <th>Commute Distance</th>
+        </tr>
+    </thead>
+    @foreach (DimCustomer item in Model)
+    {
+<tr>
+    <td>@item.CustomerAlternateKey</td>
+    <td>@item.Title</td>
+    <td>@item.FirstName</td>
+    <td>@item.MiddleName</td>
+    <td>@item.LastName</td>
+    <td>@item.Gender</td>
+    <td>
+        @if (@item.BirthDate.ToString() != "")
+        {
+            @item.BirthDate.Value.ToString("dd/MM/yyyy")
+
+        }
+    </td>
+    <td>@item.MaritalStatus</td>
+    <td>@item.Suffix</td>
+    <td>@item.EmailAddress</td>
+    <td>@item.Phone</td>
+    <td>@item.AddressLine1</td>
+    <td>@item.AddressLine2</td>
+    <td>@item.City</td>
+    <td>@item.StateProvinceName</td>
+    <td>@item.CountryRegionName</td>
+    <td>@item.Education</td>
+    <td>@item.TotalChildren</td>
+    <td>@item.NumberChildrenAtHome</td>
+    <td>@item.HouseOwnerFlag</td>
+    <td>@item.YearlyIncome</td>
+    <td>
+        @if (@item.DateFirstPurchase.ToString() != "")
+        {
+            @item.DateFirstPurchase.Value.ToString("dd/MM/yyyy")
+
+        }
+    <td>@item.CommuteDistance</td>
+</tr>
+    }
+</table>

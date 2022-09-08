@@ -1,0 +1,99 @@
+﻿@model List<DimProduct>
+@*<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Product Key</th>
+            <th>Product  Alternate Key</th>
+            <th>Product Name</th>
+            <th>Finished</th>
+            <th>Photo</th>
+            <th>Product Subcategory Name</th>
+            <th>Product Category Name</th>
+            <th>Weight Unit Measure Code</th>
+            <th>Color</th>
+            <th>Size</th>
+            <th>Size Range</th>
+            <th>Weight</th>
+            <th>Days To Manufacture</th>
+            <th>Product Line</th>
+            <th>Class</th>
+            <th>Style</th>
+            <th>Model Name</th>
+            <th>Description</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+            @foreach (DimProduct item in Model)
+            {
+                <tr>
+                    <td>@item.ProductKey</td>
+                    <td>@item.ProductAlternateKey</td>
+                    <td>@item.ProductName</td>
+
+
+
+                    <td>
+                        @if (item.FinishedGoodFlag)
+                        {
+                            <input type="checkbox" checked class="a" value="@item.FinishedGoodFlag" />
+                        }
+                        else
+                        {
+                            <input type="checkbox" class="a" value="@item.FinishedGoodFlag" />
+                        }
+                    </td>
+                    <td>@item.ImageFile</td>
+                    <td>@item.ProductSubcategoryName</td>
+                    <td>@item.ProductCategoryName</td>
+                    <td>@item.WeightUnitMeasureCode</td>
+                    <td>@item.Color</td>
+                    <td>@item.Size</td>
+                    <td>@item.SizeRange</td>
+                    <td>@item.Weight</td>
+                    <td>@item.DaysToManufacture</td>
+                    <td>@item.ProductLine</td>
+                    <td>@item.Class</td>
+                    <td>@item.Style</td>
+                    <td>@item.ModelName</td>
+                    <td>@item.Description</td>
+                    <td>@item.StartDate</td>
+                    <td>@item.EndDate</td>
+                    <td>@item.Status</td>
+                </tr>
+            }
+</table>*@
+
+<div class="row">
+    <div class=" col-3">
+        <ul>
+            <li> <a alt="0" href="/DimProduct/ProductCategories/0">All</a></li>
+            @foreach (DimProductCategory item in ViewBag.ProductCategories)
+            {
+                <li> <a href="/DimProduct/ProductCategories/@item.ProductCategoryKey">@item.ProductCategoryName</a></li>
+            }
+
+        </ul>
+    </div>
+    <div class="col-9">
+        <div class="row">
+            @foreach (DimProduct item in Model)
+            {
+                <div class="col-3">
+                    <div class="box">
+                        <a href="/DimProduct/detail/@item.ProductAlternateKey"><img class="img-fluid" src="data:image/jpeg;base64,@Convert.ToBase64String(item.ImageFile)" alt="@item.ProductAlternateKey" /></a>
+                        <a href="/DimProduct/detail/@item.ProductAlternateKey">
+                            <div class="text-center">
+                                <b> @item.ProductAlternateKey</b>
+                            </div>
+                        </a>
+
+                    </div>
+
+                </div>
+            }
+        </div>
+    </div>
+
+</div>

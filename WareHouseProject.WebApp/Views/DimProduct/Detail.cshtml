@@ -1,0 +1,38 @@
+﻿@model DimProduct
+<div class="row">
+    <div class=" col-5">
+        @*<div>@Model.EmployeeKey</div>*@
+        <div><b>Product Key: </b>@Model.ProductAlternateKey</div>
+        <div><b>Name :</b>@Model.ProductName </div>
+        <div>
+            <b>Finished:</b>
+            <td>
+                @if (Model.FinishedGoodFlag)
+                {
+                    <input type="checkbox" checked class="a" value="@Model.FinishedGoodFlag" />
+                }
+                else
+                {
+                    <input type="checkbox" class="a" value="@Model.FinishedGoodFlag" />
+                }
+            </td>
+        </div>
+        <div><b>Product Subcategory: </b>@Model.ProductSubcategoryName</div>
+        <div><b>Category: </b>@Model.ProductCategoryName</div>
+        <div><b>Weight: </b>@Model.Weight</div>
+        <div><b>Color: </b>@Model.Color</div>
+        <div><b>Size: </b>@Model.Size</div>
+        <div><b>Days To Manufacture: </b>@Model.DaysToManufacture</div>
+        <div><b>Product Line:</b>@Model.ProductLine</div>
+        <div><b>Class: </b>@Model.Class</div>
+        <div><b>Style: </b>@Model.Style</div>
+        <div><b>Model name: </b>@Model.ModelName</div>
+        <div><b>Description: </b>@Model.Description</div>
+        <div><b>Status: </b>@Model.Status</div>
+
+    </div>
+    <div class="col-7">
+        <img class="img-fluid" src="data:image/jpeg;base64,@Convert.ToBase64String(Model.ImageFile)" />
+    </div>
+
+</div>

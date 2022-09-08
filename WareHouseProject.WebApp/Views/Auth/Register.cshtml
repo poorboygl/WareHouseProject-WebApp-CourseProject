@@ -1,0 +1,125 @@
+﻿@model Account
+<form method="post" enctype="multipart/form-data">
+    <div>
+        <label>username</label>
+        <input type="text" asp-for="Username" />
+    </div>
+    <div>
+        <label>Password</label>
+        <input type="password" asp-for="Password" />
+    </div>
+    <div>
+        <label>First Name</label>
+        <input type="text" asp-for="FirstName" />
+    </div>
+    <div>
+        <label>Middle Name</label>
+        <input type="text" asp-for="MiddleName" />
+    </div>
+    <div>
+        <label>Last Name</label>
+        <input type="text" asp-for="LastName" />
+    </div>
+    <div>
+        <label>Phone</label>
+        <input type="text" asp-for="Phone" />
+    </div>
+    <div>
+        <label>Address</label>
+        <input type="text" asp-for="Address" />
+    </div>
+    <div>
+        <label>Province</label>
+        <select asp-for="ProvinceID" asp-items="ViewBag.provinces"></select>
+    </div>
+    <div>
+        <label>District</label>
+        <select asp-for="DistrictID"></select>
+    </div>
+    <div>
+        <label>Ward</label>
+        <select asp-for="WardID"></select>
+    </div>
+    @*<form enctype="multipart/form-data" method="post" name="frm">*@
+    <input  type="file" name="f" />
+    @*</form>*@
+    <div id="rs"></div>
+
+    <div>
+        <button class="btn btn-primary">Confirm</button>
+    </div>
+</form>
+<script>
+    var distrist = {};
+    function showDistricts(a) {
+        for (var i in a) {
+            $(DistrictID).append(`<option value="${a[i]['districtID']}">${a[i]['districtName']}</option>`);
+        }
+    }
+    function LoadDistricts(id) {
+        $(DistrictID).html(null);
+        if (distrist[id] == undefined) {
+            var url = '/Auth/districts/' + id;
+            $.get(url, function (a) {
+                distrist[id] = a;
+                showDistricts(a);
+                LoadWards($(DistrictID).val());
+            });
+            console.log('chua co');
+        }
+        else {
+            showDistricts(distrist[id]);
+            console.log('Co roi');
+        }
+
+    }
+    function LoadWards(id) {
+        $(WardID).html(null);
+        var url = '/Auth/Wards/' + id;
+        $.get(url, function (a) {
+            for (var i in a) {
+                $(WardID).append(`<option  value="${a[i]['wardID']}">${a[i]['wardName']}</option>`);
+
+            }
+        });
+    }
+    LoadDistricts($(ProvinceID).val());
+
+    $(ProvinceID).change(function () {
+        LoadDistricts($(this).val());
+    });
+
+    $(DistrictID).change(function () {
+        LoadWards($(this).val());
+
+    });
+
+//---------------------------------------------- up load hinh
+    /*$(frm).submit(function (ev) {
+        ev.preventDefault();
+        //var f = frm['f'].files[0];
+        //console.log(f.name);
+        var fd = new FormData();
+        fd.append('f', frm['f'].files[0]);
+        $.ajax({
+            url: '/Auth/ajax',
+            type: 'post',
+            data: fd,
+            processData: false, //tell jquery no process data
+            contentType: false, //tell jquery not set content type
+            success: function (o) {
+                var img = o['img'];
+                console.log(img);
+                //console.log(o);
+                $(rs).append(`<img width="100" src="data:image/jpeg;base64,${img}">`)
+            }
+        });
+
+    });*/
+
+
+
+
+
+
+</script>

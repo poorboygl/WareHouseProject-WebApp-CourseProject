@@ -1,0 +1,20 @@
+﻿@model List<DimCompanyOrganization>
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Company Organization Key</th>
+            <th>Position</th>
+            <th>Department Group Name</th>
+
+
+        </tr>
+    </thead>
+    @foreach (DimCompanyOrganization item in Model)
+    {
+        <tr>
+            <td>@item.CompanyOrganizationKey</td>
+            <td>@item.Position</td>
+            <td>@item.DepartmentGroupName</td>
+        </tr>
+    }
+</table>

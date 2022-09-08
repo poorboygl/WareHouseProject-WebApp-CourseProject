@@ -1,0 +1,54 @@
+﻿@model DimEmployee
+<div class="row">
+    <div class=" col-5">
+            @*<div>@Model.EmployeeKey</div>*@
+            <div><b>National ID: </b>@Model.EmployeeNationalIDAlternateKey</div>
+            <div><b>Name :</b>@Model.FirstName @Model.MiddleName @Model.LastName </div>
+            <div><b>Gender: </b>@Model.Gender</div>
+            <div><b>Position: </b>@Model.Position</div>
+            <div><b>Department: </b>@Model.DepartmentGroupName</div>
+            <div><b>HireDay: </b>@Model.HireDate.Value.ToString("dd/MM/yyyy")</div>
+            <div><b>StartDay: </b>@Model.StartDate.Value.ToString("dd/MM/yyyy")</div>
+            <div><b>EndDay: </b>@Model.EndDate</div>
+            <div><b>Status: </b>@Model.Status</div>
+            <div>
+                <b>Salaried</b>
+                <td>
+                    @if (Model.SalariedFlag)
+                    {
+                        <input type="checkbox" checked class="a" value="@Model.SalariedFlag" />
+                    }
+                    else
+                    {
+                        <input type="checkbox" class="a" value="@Model.SalariedFlag" />
+                    }
+                </td>          
+            </div>
+            <div>
+                <b>SalesPerson</b>
+                <td>
+                    @if (Model.SalesPersonFlag)
+                    {
+                        <input type="checkbox" checked class="a" value="@Model.SalesPersonFlag" />
+                    }
+                    else
+                    {
+                        <input type="checkbox" class="a" value="@Model.SalesPersonFlag" />
+                    }
+                </td>
+            </div>
+           
+
+            <div><b>BirthDay: </b>@Model.Birthdate.Value.ToString("dd/MM/yyyy")</div>
+            <div><b>EmailAddress: </b>@Model.EmailAddress</div>
+            <div><b>Phone Number: </b>@Model.Phone</div>
+            <div><b>Marital Status: </b>@Model.MaritalStatus</div>
+            <div><b>Emergency ContactName: </b>@Model.EmergencyContactName</div>
+            <div><b>Emergency ContactPhone: </b>@Model.EmergencyContactPhone</div>
+            
+    </div>
+    <div class="col-7">
+        <img class="img-fluid"  src="data:image/jpeg;base64,@Convert.ToBase64String(Model.EmployeePhoto)" />
+    </div>
+
+</div>

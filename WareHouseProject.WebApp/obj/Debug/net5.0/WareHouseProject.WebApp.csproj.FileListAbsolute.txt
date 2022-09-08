@@ -1,0 +1,303 @@
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csprojAssemblyReference.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfoInputs.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfo.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CoreCompileInputs.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.json
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.exe
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.deps.json
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.json
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.dev.json
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.pdb
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.Manifest.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.xml
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\scopedcss\bundle\WareHouseProject.WebApp.styles.css
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.input.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.output.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorCoreGenerate.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CopyComplete
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.pdb
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.genruntimeconfig.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductCategory\Index.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductSubcategory\Index.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProduct\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.Development.json
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.json
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.exe
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.deps.json
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.json
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.dev.json
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.pdb
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csprojAssemblyReference.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfoInputs.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfo.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CoreCompileInputs.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.Manifest.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.xml
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\scopedcss\bundle\WareHouseProject.WebApp.styles.css
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.input.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.output.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorCoreGenerate.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductCategory\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductSubcategory\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CopyComplete
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.pdb
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.genruntimeconfig.cache
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimGeography\Index.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCustomer\Index.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimDepartmentGroup\Index.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCompanyOrganization\Index.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimEmployee\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.exe
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.deps.json
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.json
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.dev.json
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.pdb
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csprojAssemblyReference.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfoInputs.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfo.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.Manifest.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.xml
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\scopedcss\bundle\WareHouseProject.WebApp.styles.css
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.input.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.output.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorCoreGenerate.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCompanyOrganization\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCustomer\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimDepartmentGroup\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimEmployee\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimGeography\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductCategory\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductSubcategory\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProduct\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CopyComplete
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.pdb
+C:\Users\BanhBeo\Downloads\WareHouseProject (1)\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.genruntimeconfig.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCompanyOrganization\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCustomer\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimDepartmentGroup\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimEmployee\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimGeography\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimEmployee\Detail.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.exe
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.deps.json
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.json
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.dev.json
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.pdb
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csprojAssemblyReference.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfoInputs.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfo.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.Manifest.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.xml
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\scopedcss\bundle\WareHouseProject.WebApp.styles.css
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.input.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.output.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorCoreGenerate.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCompanyOrganization\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCustomer\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimDepartmentGroup\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimEmployee\Detail.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimEmployee\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimGeography\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductCategory\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductSubcategory\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProduct\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CopyComplete
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.pdb
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.genruntimeconfig.cache
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Detail.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimEmployee\Detail.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProduct\Detail.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Detail.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProduct\Detail.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProduct\Index.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\SignIn.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\SignIn.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\SignIn.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProduct\Detail.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\BanhBeo\Downloads\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\PhotoUpload\Ajax.cshtml.g.cs
+D:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\PhotoUpload\Ajax.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\failed.cshtml.g.cs
+E:\DoAnWeb\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\Success.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\appsettings.json
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.exe
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.deps.json
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.json
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.runtimeconfig.dev.json
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.pdb
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csprojAssemblyReference.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfoInputs.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.AssemblyInfo.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CoreCompileInputs.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorAssemblyInfo.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.Manifest.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\staticwebassets\WareHouseProject.WebApp.StaticWebAssets.xml
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\scopedcss\bundle\WareHouseProject.WebApp.styles.css
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.input.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.TagHelpers.output.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorCoreGenerate.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\Failed.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\SignIn.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Auth\Success.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCompanyOrganization\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimCustomer\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimDepartmentGroup\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimEmployee\Detail.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimEmployee\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimGeography\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductCategory\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProductSubcategory\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProduct\Detail.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\DimProduct\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Detail.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\PhotoUpload\Ajax.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cache
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.RazorTargetAssemblyInfo.cs
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.Views.pdb
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.csproj.CopyComplete
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\ref\WareHouseProject.WebApp.dll
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.pdb
+D:\DoAnWeb\DoAnWeb-NguyenQuocVu-0988816494\WareHouseProject\WareHouseProject.WebApp\obj\Debug\net5.0\WareHouseProject.WebApp.genruntimeconfig.cache
